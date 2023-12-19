@@ -19,3 +19,36 @@ Mastering computer basics is an important process.
 - Internet is a scalable network.
 - Quality of Service is the ability to set priorities and to manage data trafic to reduce data loss, delay etc.
 - Security is the ability to prevent unauthorized access, misuse and forgery.
+
+## Network Protocols and Communications
+
+- Data communications are the exchange of data between two nodes via some form of link(transmission medium) such as a cable.
+- Data flow means the data is going to flow from one node to another node. There are three different flows: Simplex(单工通信), Half Duplex(半双工通信), Full Duplex(全双工通信)
+- Simplex:
+  1. Communication is always unidirectional.
+  1. One device can transmit and the other device will receive.
+  1. Examples:Keyboards, Traditional monitors
+- Half Duplex:
+  1. Communication is both directions but not at the same time.
+  1. If one device is sending, the other can only receive, and vice versa.
+  1. Examples: Walkie-Talkies
+- Full Duplex:
+  1. Communication is both directions simultaneously(同时地)
+  1. Device can send and receive at the same time.
+  1. Example:Telephone line.
+- All communication schemes will have the following things in common:
+  1. Source and sender
+  1. Destination and receiver
+  1. Channel or media
+- Protocol = Rule. It is a set of rules that govern data communication.
+- Protocol determines:
+  1. What is communicated?
+  1. How it is communicated?
+  1. When it is communicated?
+- Elements of a protocol
+  1. Message encoding: because we have two kinds of transmission medium(wired medium and wireless medium)
+  1. Message formatting and encapsulation(封装): Encapsulate the information to identify the sender and the receiver rightly.
+  1. Message timing: Flow control and response timeout.
+  1. Message size: Long messages must be broken into smaller pieces to travel across a network.
+  1. Message delivery options: unicast(one destination), multicast(not all destinations), broadcast(all destinations)
+
