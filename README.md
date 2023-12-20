@@ -20,7 +20,7 @@ Mastering computer basics is an important process.
 - Quality of Service is the ability to set priorities and to manage data trafic to reduce data loss, delay etc.
 - Security is the ability to prevent unauthorized access, misuse and forgery.
 
-## Network Protocols and Communications
+## Network Protocols and Communications(Part 1)
 
 - Data communications are the exchange of data between two nodes via some form of link(transmission medium) such as a cable.
 - Data flow means the data is going to flow from one node to another node. There are three different flows: Simplex(单工通信), Half Duplex(半双工通信), Full Duplex(全双工通信)
@@ -47,8 +47,24 @@ Mastering computer basics is an important process.
   1. When it is communicated?
 - Elements of a protocol
   1. Message encoding: because we have two kinds of transmission medium(wired medium and wireless medium)
-  1. Message formatting and encapsulation(封装): Encapsulate the information to identify the sender and the receiver rightly.
+  1. Message formatting and encapsulation(封装): Encapsulate infomation to identify the sender and the receiver rightly.
   1. Message timing: Flow control and response timeout.
   1. Message size: Long messages must be broken into smaller pieces to travel across a network.
   1. Message delivery options: unicast(one destination), multicast(not all destinations), broadcast(all destinations)
 
+## Network Protocols and Communications(Part 2)
+
+- Message encoding: Protocols converts the data into signals or waves by appropriately identifying the device which it is connected to.
+- Message formatting and encapsulation: With the data that it is going to send, this is going to add few more information with the data. That is the source IP address and the destination IP address.
+- Message Timing: Flow control. It means if the receiver can handle ten data packets at a time, so that information will be sent to the sender. So the sender will start sending ten packets at a time. Response timeout. The sender must ensure that the data is received by the destination.
+- Message Size: When we break the big box into small pieces, we will put numbers on every small box. So the destination can reassemble(重新组装) it in a right way. At the same time, this number will also help to identify if any packets or pieces are missing
+- Peer-to-Peer Network
+  1. No centralized administration.
+  1. All peers are equal.
+  1. Simple sharing applications.
+  1. Not scalable.
+- Client Server Network
+  1. Centralized administration.
+  1. Request-Response model.
+  1. Scalable.
+  1. Server maybe overloaded.
