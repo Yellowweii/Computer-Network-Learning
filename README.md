@@ -68,3 +68,13 @@ Mastering computer basics is an important process.
   1. Request-Response model.
   1. Scalable.
   1. Server maybe overloaded.
+
+## Components of a Computer Network
+
+- Nodes:
+  1. End nodes(End devices): Computers, Network Printers, VoIP Phones, Telepresence endpoint, Security cameras, Mobile handled devices
+  1. Intermediary nodes: Switches, Wireless Access Point, Routers, Security devices(Firewall), Bridges, Hubs, Repeaters, Cell Tower
+- Media:
+  1. Wired Medium(Guided Medium): Ethernet(以太网) straight-through cable, Ethernet crossover cable, Fiber Optic cable(光纤电缆) In fiber optic cable, the data is going to be carried in the form of light waves, light the fastest one in the world, so this is the fastest mode of wired communication. Coaxial cable(同轴电缆), USB cable
+  1. Wireless Medium(Unguide Medium): Infrared(红外线): short range communication - TV remote control, Radio: Bluetooth, Wi-Fi, Microwaves: Cellular System(蜂窝系统) - Long communication, Satellite: Long range communication - GPS
+- Services: e-mail, Storage services, File sharing, Instant Messaging, Online game, Voice over IP, video telephony, World Wide Web
