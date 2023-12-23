@@ -110,12 +110,15 @@ Mastering computer basics is an important process.
   1. Every node is connected to a central node called a hub or switch.
   1. Centralized Management.
   1. All traffic must pass through the hub or switch.
+     
      ![](https://www.yellowwei.cn/img/2023-12-23（4）.png)
      ![](https://www.yellowwei.cn/img/2023-12-23（5）.png)
 - Mesh Topology:
   1. Each node is directly connected to every other nodes in the network.
   1. Fault tolerant and reliable.
+     
      ![](https://www.yellowwei.cn/img/2023-12-23（6）.png)
      ![](https://www.yellowwei.cn/img/2023-12-23（7）.png)
 - Hybrid Topology:
-  ![](https://www.yellowwei.cn/img/2023-12-23（8）.png)
+
+![](https://www.yellowwei.cn/img/2023-12-23（8）.png)
