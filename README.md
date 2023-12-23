@@ -77,4 +77,15 @@ Mastering computer basics is an important process.
 - Media:
   1. Wired Medium(Guided Medium): Ethernet(以太网) straight-through cable, Ethernet crossover cable, Fiber Optic cable(光纤电缆) In fiber optic cable, the data is going to be carried in the form of light waves, light the fastest one in the world, so this is the fastest mode of wired communication. Coaxial cable(同轴电缆), USB cable
   1. Wireless Medium(Unguide Medium): Infrared(红外线): short range communication - TV remote control, Radio: Bluetooth, Wi-Fi, Microwaves: Cellular System(蜂窝系统) - Long communication, Satellite: Long range communication - GPS
-- Services:e-mail, Storage services, File sharing, Instant Messaging, Online game, Voice over IP, video telephony, World Wide Web
+- Services: e-mail, Storage services, File sharing, Instant Messaging, Online game, Voice over IP, video telephony, World Wide Web
+
+## Classfications of Computer Networks
+
+- Local Area Network(LAN)
+  > A Local Area Network(LAN) is a computer network that interconnects computers within a limited area such as a residence, school, laboratary, university campus or office building.
+  > LAN-DEVICES
+  >
+  > - WiredLAN(Example:Ethernet-Hub,Switch): Ethernet straight through cable connects devices of different kinds. If we want to connect this computer with that computer directly, then we have to go for ethernet crossover cable.
+  > - WirelessLAN(Example:Wi-Fi)
+- Metropolitan Area Network(MAN) /ˌmet.rəˈpɒl.ɪ.tən/ relating to a large city: A metropolian area network(MAN) is a computer network that interconnects users with computer resources in a geographic region of the size of a metropolitan area(City).
+- Wide Area Network(WAN): A wide area network(WAN) is a telecommunications network that extends over a large geographical area for the primary purpose of computer networking.
