@@ -88,4 +88,5 @@ Mastering computer basics is an important process.
   > - WiredLAN(Example:Ethernet-Hub,Switch): Ethernet straight through cable connects devices of different kinds. If we want to connect this computer with that computer directly, then we have to go for ethernet crossover cable.
   > - WirelessLAN(Example:Wi-Fi)
 - Metropolitan Area Network(MAN) /ˌmet.rəˈpɒl.ɪ.tən/ relating to a large city: A metropolian area network(MAN) is a computer network that interconnects users with computer resources in a geographic region of the size of a metropolitan area(City).
-- Wide Area Network(WAN): A wide area network(WAN) is a telecommunications network that extends over a large geographical area for the primary purpose of computer networking.
+- Wide Area Network(WAN): A wide area network(WAN) is a telecommunications network that extends over a large geographical area for the primary purpose of computer networking. Internet is a wide WAN.
+- New trends: Bring your own device. Online collaboration. Cloud computing: It is the on-demand availability of computer system resource, especially data storage and computing power, without direct active management by the user.(Google drive)
