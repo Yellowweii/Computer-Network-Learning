@@ -90,3 +90,32 @@ Mastering computer basics is an important process.
 - Metropolitan Area Network(MAN) /ˌmet.rəˈpɒl.ɪ.tən/ relating to a large city: A metropolian area network(MAN) is a computer network that interconnects users with computer resources in a geographic region of the size of a metropolitan area(City).
 - Wide Area Network(WAN): A wide area network(WAN) is a telecommunications network that extends over a large geographical area for the primary purpose of computer networking. Internet is a wide WAN.
 - New trends: Bring your own device. Online collaboration. Cloud computing: It is the on-demand availability of computer system resource, especially data storage and computing power, without direct active management by the user.(Google drive)
+
+## Network Topology
+
+- Arrangement of nodes of a computer network. Topology = Layout.
+- Topology can be viewed as a physical topology and logical topology. Physical Topology —— Placement of various nodes. Logical Topology —— Deals with the data flow in the network.
+- Bus Topology: All data transmitted between nodes in the network is transimitted over this common transmission medium and is able to be received by all nodes in the network simultaneously(= happening or being done at exactly the same time). A signal containing the address of the intended receiving machine travels from a source machine in both directions to all machines connected to the bus until it finds the intended recipient.
+  ![](https://www.yellowwei.cn/img/2023-12-23.png)
+  ![](https://www.yellowwei.cn/img/2023-12-23（1）.png)
+- Ring Topology:
+  1. A ring topology is a bus topology in a closed loop.
+  1. Peer-to-Peer LAN topology.
+  1. Two connections: one to each of its nearest neighbors.
+  1. Unidirectional.
+  1. Sending and receiving data takes place with the help of a TOKEN.
+     ![](https://www.yellowwei.cn/img/2023-12-23（2）.png)
+     ![](https://www.yellowwei.cn/img/2023-12-23（3）.png)
+- Star Topology:
+  1. Every node is connected to a central node called a hub or switch.
+  1. Centralized Management.
+  1. All traffic must pass through the hub or switch.
+     ![](https://www.yellowwei.cn/img/2023-12-23（4）.png)
+     ![](https://www.yellowwei.cn/img/2023-12-23（5）.png)
+- Mesh Topology:
+  1. Each node is directly connected to every other nodes in the network.
+  1. Fault tolerant and reliable.
+     ![](https://www.yellowwei.cn/img/2023-12-23（6）.png)
+     ![](https://www.yellowwei.cn/img/2023-12-23（7）.png)
+- Hybrid Topology:
+  ![](https://www.yellowwei.cn/img/2023-12-23（8）.png)
