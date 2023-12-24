@@ -210,3 +210,18 @@ Mastering computer basics is an important process.
 - The TCP/IP model
   ![](https://www.yellowwei.cn/img/2023-12-24（1）.png)
 - Any communication to happen in computer network needs IP address, MAC address and port address. So each layer will take care of each of these addressing.
+
+## The OSI Reference Model(Part 1)
+
+- There are seven layers in the OSI reference model: Application Layer, Presentation Layer, Session Layer, Transport Layer, Network Layer, Data Link Layer and Physical Layer.(Please Do Not Throw Sausage Pizza Away)
+  ![](https://www.yellowwei.cn/img/2023-12-24（2）.png)
+
+## The OSI Reference Model(Part 2)
+
+- Physical Layer converts the entire content into zeros and ones. It knows which kind of medium it is connected to. If it is connected to a wired medium, it converts entire zeros and ones into signals. If it is a Ethernet cable, it converts this into an electrical signal. If it is a fiber optic cable, it converts the entire bits of zeros and ones into light waves. In case, if it is a wireless medium, this entire group of zeros and ones are converted into waves.
+- Application Layer:
+  ![](https://www.yellowwei.cn/img/2023-12-24（3）.png)
+- Presentation Layer:
+  ![](https://www.yellowwei.cn/img/2023-12-24（4）.png)
+- Session Layer:
+  ![](https://www.yellowwei.cn/img/2023-12-24（5）.png)
