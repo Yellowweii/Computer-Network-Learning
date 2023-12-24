@@ -104,6 +104,7 @@ Mastering computer basics is an important process.
   1. Two connections: one to each of its nearest neighbors.
   1. Unidirectional.
   1. Sending and receiving data takes place with the help of a TOKEN.
+     
      ![](https://www.yellowwei.cn/img/2023-12-23（2）.png)
      ![](https://www.yellowwei.cn/img/2023-12-23（3）.png)
 - Star Topology:
@@ -120,6 +121,7 @@ Mastering computer basics is an important process.
      ![](https://www.yellowwei.cn/img/2023-12-23（6）.png)
      ![](https://www.yellowwei.cn/img/2023-12-23（7）.png)
 - Hybrid Topology:
+  
   ![](https://www.yellowwei.cn/img/2023-12-23（8）.png)
 
 ## Basics of IP Addressing
