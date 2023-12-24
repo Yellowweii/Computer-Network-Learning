@@ -99,29 +99,35 @@ Mastering computer basics is an important process.
   ![](https://www.yellowwei.cn/img/2023-12-23.png)
   ![](https://www.yellowwei.cn/img/2023-12-23（1）.png)
 - Ring Topology:
+
   1. A ring topology is a bus topology in a closed loop.
   1. Peer-to-Peer LAN topology.
   1. Two connections: one to each of its nearest neighbors.
   1. Unidirectional.
   1. Sending and receiving data takes place with the help of a TOKEN.
-     
+
      ![](https://www.yellowwei.cn/img/2023-12-23（2）.png)
      ![](https://www.yellowwei.cn/img/2023-12-23（3）.png)
+
 - Star Topology:
+
   1. Every node is connected to a central node called a hub or switch.
   1. Centralized Management.
   1. All traffic must pass through the hub or switch.
 
      ![](https://www.yellowwei.cn/img/2023-12-23（4）.png)
      ![](https://www.yellowwei.cn/img/2023-12-23（5）.png)
+
 - Mesh Topology:
+
   1. Each node is directly connected to every other nodes in the network.
   1. Fault tolerant and reliable.
- 
+
      ![](https://www.yellowwei.cn/img/2023-12-23（6）.png)
      ![](https://www.yellowwei.cn/img/2023-12-23（7）.png)
+
 - Hybrid Topology:
-  
+
   ![](https://www.yellowwei.cn/img/2023-12-23（8）.png)
 
 ## Basics of IP Addressing
@@ -188,3 +194,19 @@ Mastering computer basics is an important process.
   1. Virtual Circuit Approach
 
   ![](https://www.yellowwei.cn/img/2023-12-23（11）.png)
+
+## Layering in Computer Networks
+
+- Layering means decomposing the problem into more manageable components.
+- Advantages:
+  1. It provides more modular design.
+  1. Easy to troubleshoot.
+- The protocols in each layer governs the activities of the data communication.
+- Two layered architectures: The OSI Reference Model and The TCP/IP Model.
+- The OSI Model
+  ![](https://www.yellowwei.cn/img/2023-12-24.png)
+- The purpose of the OSI model is to show how to facilitate communication between different systems without requiring changes to the logic of the underlying hardware and software.
+- The OSI model was never fully implemented.
+- The TCP/IP model
+  ![](https://www.yellowwei.cn/img/2023-12-24（1）.png)
+- Any communication to happen in computer network needs IP address, MAC address and port address. So each layer will take care of each of these addressing.
