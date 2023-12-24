@@ -222,6 +222,6 @@ Mastering computer basics is an important process.
 - Application Layer:
   ![](https://www.yellowwei.cn/img/2023-12-24（3）.png)
 - Presentation Layer:
-  ![](https://www.yellowwei.cn/img/2023-12-24（4）.png)
+  ![](https://www.yellowwei.cn/img/2023-12-24（6）.png)
 - Session Layer:
   ![](https://www.yellowwei.cn/img/2023-12-24（5）.png)
