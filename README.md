@@ -119,3 +119,68 @@ Mastering computer basics is an important process.
      ![](https://www.yellowwei.cn/img/2023-12-23（7）.png)
 - Hybrid Topology:
   ![](https://www.yellowwei.cn/img/2023-12-23（8）.png)
+
+## Basics of IP Addressing
+
+- Every node in the computer network is identified with the help of IP address.
+- There are two variations in IP address: IPV4 address and IPV6 address.
+- IPV4:
+  1. Logical address
+  1. Can change based on the location of the device.
+  1. Assigned by manually and dynamically.
+  1. Represented in decimal and it has 4 octets(x.x.x.x).
+  1. 0.0.0.0 to 255.255.255.255(32 bits).
+- How to see IP address in real device? —— ipconfig
+
+## Basics of MAC Addressing
+
+- MAC stands for Media Access Control
+- Every node in the LAN is identified with the help of MAC address.
+- IP Address = Location of a person. MAC Address = Name of a person. IP addresses are router friendly addresses while MAC addresses are switch friendly addresses.
+- MAC Address
+  1. Physical address or Hardware address
+  1. Unique, cannot be changed.
+  1. Assigned by the manufacturer.
+  1. Represented in hexadecimal(十六进制).
+  1. Example: 70-20-84-00-ED-FC(48 bits).
+  1. Separator: -.:
+- IP address vs MAC address
+  ![](https://www.yellowwei.cn/img/2023-12-23（9）.png)
+- How to see MAC address in real device? —— ipconfig/all
+
+## Basics of Port Addressing
+
+- Reaching our city = Reaching our network.(IP address) Reaching our apartment = Reaching the host(MAC address) Reaching the right person = Reaching the right process.(Port Address)
+- Port address or Port number
+  1. In a node, many processes will be running.
+  1. Data which are sent/received must reach the right process.
+  1. Every process in a node is uniquely identified using port numbers.
+  1. Port = Communication endpoint
+  1. Fixed port and dynamic port numbers(0~65535) Example:Fixed port numbers: 25, 80 etc. OS assigned dynamic port numbers: 62424;
+
+## Switching Techniques in Computer Networks
+
+- Switching in computer network helps in deciding the best route for data transmission if there are multiple paths in a larger network.
+- Circuit Switching(电路交换): Connection establishment——data transfer——connection disconnection
+  1. A dedicated path is established between the sender and receiver.
+  1. Before data transfer, connection will be established first.
+  1. Example: Telephone network
+- Message Switching(报文交换)
+  1. Store and forward mechanism.
+  1. Message is transferred as a complete unit and forwarded using store and forward mechanism at the intermediary node.
+  1. Not suited for streaming media and real-time applications. Example: If sender is sending a real-time communication, two people are talking over voice and IP phones. So, we cannot expect intermediary node to collect all the data that is sent by the person and forward it. Because it is a real-time communication.
+- Packet Switching(分组交换)
+  1. The Internet is a packet switched network.
+  1. Message is broken into individual chunks called as packets.
+  1. Each packet is sent individually.
+  1. Each packet will have source and destination IP address with sequence(顺序) number
+  1. Sequence numbers will help the receiver to reorder the packets, detect missing packets and send acknowledgments. If the sender don't receive the acknowledgments in a period of time, it will retransmit that packet.
+- Two Approaches to packet switching
+
+  1. Datagram Approach
+
+  ![](https://www.yellowwei.cn/img/2023-12-23（10）.png)
+
+  1. Virtual Circuit Approach
+
+  ![](https://www.yellowwei.cn/img/2023-12-23（11）.png)
