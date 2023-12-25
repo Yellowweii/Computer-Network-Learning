@@ -229,12 +229,19 @@ Mastering computer basics is an important process.
 ## The OSI Reference Model(Part 3)
 
 - Transport Layer:
+
   ![](https://www.yellowwei.cn/img/2023-12-24（7）.png)
+
 - Network Layer:
+
   ![](https://www.yellowwei.cn/img/2023-12-24（8）.png)
+
 - Data Link Layer:
+
   ![](https://www.yellowwei.cn/img/2023-12-24（9）.png)
+
 - Physical Layer:
+
   ![](https://www.yellowwei.cn/img/2023-12-24（10）.png)
 
 ## The OSI Reference Model(Part 4)
@@ -249,3 +256,12 @@ Mastering computer basics is an important process.
   1. In the Data link lyer, there are going to add header and trailer. Header contains source MAC address and destination MAC address and trailer deals with the error control related part.
 
      ![](https://www.yellowwei.cn/img/2023-12-25（1）.png)
+
+## Addressing in Networking
+
+- IP address and MAC address
+
+![](https://www.yellowwei.cn/img/2023-12-25（2）.png)
+
+- Any intermediary node will always process three layer information: Physical layer information, Data link layer information and Network layer information.
+- It uses this computer's MAC address and next router's incoming interface as the destination MAC address.
