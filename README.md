@@ -265,3 +265,21 @@ Mastering computer basics is an important process.
 
 - Any intermediary node will always process three layer information: Physical layer information, Data link layer information and Network layer information.
 - It uses this computer's MAC address and next router's incoming interface as the destination MAC address.
+
+## The TCP/IP Protocol Suite
+
+- OSI reference model VS TCP/IP model
+
+![](https://www.yellowwei.cn/img/2023-12-25（3）.png)
+
+- The TCP/IP Model
+
+![](https://www.yellowwei.cn/img/2023-12-25（4）.png)
+![](https://www.yellowwei.cn/img/2023-12-25（5）.png)
+
+- Protocol Data Unit(PDU): Protocol Data Units(PDUs) are named according to the protocols of the TCP/IP suite:data, segment, packet, frame and bits.
+  1. Application Layer —— Data
+  1. Transport Layer —— Segment
+  1. Network Layer —— Packet
+  1. Data Link Layer —— Frame
+  1. Physical Layer —— Bits
