@@ -222,6 +222,24 @@ Mastering computer basics is an important process.
 - Application Layer:
   ![](https://www.yellowwei.cn/img/2023-12-24（3）.png)
 - Presentation Layer:
-  ![](https://www.yellowwei.cn/img/2023-12-24（4）.png)
+  ![](https://www.yellowwei.cn/img/2023-12-24（6）.png)
 - Session Layer:
   ![](https://www.yellowwei.cn/img/2023-12-24（5）.png)
+
+## The OSI Reference Model(Part 3)
+
+- Transport Layer:
+  ![](https://www.yellowwei.cn/img/2023-12-24（7）.png)
+- Network Layer:
+  ![](https://www.yellowwei.cn/img/2023-12-24（8）.png)
+- Data Link Layer:
+  ![](https://www.yellowwei.cn/img/2023-12-24（9）.png)
+- Physical Layer:
+  ![](https://www.yellowwei.cn/img/2023-12-24（10）.png)
+
+## The OSI Reference Model(Part 4)
+
+- Recall services offered by each layer
+  ![](https://www.yellowwei.cn/img/2023-12-25.png)
+- Working of the OSI reference model
+  ![](https://www.yellowwei.cn/img/2023-12-25（1）.png)
