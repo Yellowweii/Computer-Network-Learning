@@ -350,3 +350,11 @@ Mastering computer basics is an important process.
 - Router VS Bridge
   1. A bridge interconnects local area networks that are running on the same protocol and the bridge is a layer two device.It processes or it deals with the MAC address.
   1. A router interconnects two different local area networks that are running with two different protocols and router is a layer three device. It deals with IP address.
+
+## List of various network devices
+
+- Repeater, Hub, Switch, Bridge(two LANs on the same protocol), Router
+- Multi-layer switch(Layer 3 Switch): Switch + Router
+- Brouter: Bridge + Router
+- Modem
+- Firewall(Security Device)
