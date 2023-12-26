@@ -337,3 +337,16 @@ Mastering computer basics is an important process.
 - It is a 2 port device.
 
 ![](https://www.yellowwei.cn/img/2023-12-26（3）.png)
+
+## Bridge
+
+- Bridge = Repeater + Functionality of reading MAC address
+- It is a layer 2 device.
+- It is used for interconnecting two LANs on the same protocol.
+- It is also a two port device.
+- Types of Bridges
+  1. Transparent Bridges: These are the bridge in which the stations are completely unaware of the bridge's existance. Reconfiguration of the stations is unnecessary even if bridge is added or removed from network.
+  1. Source Routing Bridges: In these bridges, routing operation is performed by source station and the frame specifies which route to follow.
+- Router VS Bridge
+  1. A bridge interconnects local area networks that are running on the same protocol and the bridge is a layer two device.It processes or it deals with the MAC address.
+  1. A router interconnects two different local area networks that are running with two different protocols and router is a layer three device. It deals with IP address.
