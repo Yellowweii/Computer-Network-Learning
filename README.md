@@ -306,3 +306,14 @@ Mastering computer basics is an important process.
   1. Issues with broadcast.
   1. No memory.
   1. Normally runs in half duplex mode.
+
+## Switch(交换机)
+
+- A switch is a networking hardware that connects devices on a computer network to establish a local area network.
+- Unlike hub, switch has memory.
+- Store MAC address table.
+- Layer 2 Device for setting up LAN.
+- Switch knows the destination MAC address connected to which interface. So it just forwards the data or the packet to only that interface.
+- Hub VS Switch
+
+  ![](https://www.yellowwei.cn/img/2023-12-26.png)
