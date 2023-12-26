@@ -359,6 +359,23 @@ Mastering computer basics is an important process.
 - Modem
 - Firewall(Security Device)
 
-## Fundamental Priciples of Physical Layer
+## Fundamental Principles of Physical Layer
 
 ![](https://www.yellowwei.cn/img/2023-12-26（4）.png)
+
+## Physical Layer and Media
+
+- Wired media
+  1.Copper cable(Ethernet cable)以太网电缆: Unshielded Twisted Pair(UTP)非屏蔽双绞线, Shielded Twisted Pair(STP)屏蔽双绞线
+  1.Fiber optic cable 光纤电缆: Light waves and high speed transmission
+
+![](https://www.yellowwei.cn/img/2023-12-26（5）.png)
+
+- one of its ports, insert it into the Ethernet port of the NIC card, take the other side and insert it into the switch or the hub.
+
+![](https://www.yellowwei.cn/img/2023-12-26（6）.png)
+
+- Wireless media has the following area to concern
+  1. Coverage area
+  1. Interference(干扰)
+  1. Security: If one node send the data, then all the nodes in the coverage area will be receiving the data.
