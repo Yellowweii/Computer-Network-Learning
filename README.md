@@ -283,3 +283,11 @@ Mastering computer basics is an important process.
   1. Network Layer —— Packet
   1. Data Link Layer —— Frame
   1. Physical Layer —— Bits
+
+## Basic Networking Commands
+
+- ipconfig —— get the IP address of this computer
+- ipconfig/all —— know the MAC address of this computer
+- nslookup —— ask the DNS Server for IP address for the given server
+- ping —— check whether two computers are reachable or not
+- tracert —— trace the route how the packet from my computer is reaching the destination computer
