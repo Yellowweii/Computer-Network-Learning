@@ -291,3 +291,18 @@ Mastering computer basics is an important process.
 - nslookup —— ask the DNS Server for IP address for the given server
 - ping —— check whether two computers are reachable or not
 - tracert —— trace the route how the packet from my computer is reaching the destination computer
+
+## Hub(集线器)
+
+- Hub works at the Physical layer of the OSI model.
+- Used to set up LAN.
+- Has multiple ports.
+- Star topology.
+- When a packet arrives at one port, it is copied to the other ports so that all segments of the LAN can see the packet.
+- pros:
+  1. Cheaper than switches.
+  1. Works good for smaller network.
+- cons:
+  1. Issues with broadcast.
+  1. No memory.
+  1. Normally runs in half duplex mode.
