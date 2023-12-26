@@ -316,4 +316,24 @@ Mastering computer basics is an important process.
 - Switch knows the destination MAC address connected to which interface. So it just forwards the data or the packet to only that interface.
 - Hub VS Switch
 
-  ![](https://www.yellowwei.cn/img/2023-12-26.png)
+  ![](https://www.yellowwei.cn/img/2023-12-26（1）.png)
+
+## Router
+
+- A router is a networking device that forwards data pakets between computer networks.
+- A router is connected to at least two networks, commonly two LANs or WANs or LAN and its ISP's network.
+- It is a layer 3(Network layer) device.
+- Stores routing table.
+- Switch VS Router
+
+![](https://www.yellowwei.cn/img/2023-12-26（2）.png)
+
+## Repeater(中继器)
+
+- The data signals generally become too weak or corrupted if they tend travel a long distance.
+- Repeater regenerates the signal over the same network.
+- It operates at the Physical layer.
+- They do not amplify(make the sound louder) the signal.
+- It is a 2 port device.
+
+![](https://www.yellowwei.cn/img/2023-12-26（3）.png)
