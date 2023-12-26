@@ -316,4 +316,4 @@ Mastering computer basics is an important process.
 - Switch knows the destination MAC address connected to which interface. So it just forwards the data or the packet to only that interface.
 - Hub VS Switch
 
-  ![](https://www.yellowwei.cn/img/2023-12-26.png)
+  ![](https://www.yellowwei.cn/img/2023-12-26（1）.png)
