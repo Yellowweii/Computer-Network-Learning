@@ -358,3 +358,7 @@ Mastering computer basics is an important process.
 - Brouter: Bridge + Router
 - Modem
 - Firewall(Security Device)
+
+## Fundamental Priciples of Physical Layer
+
+![](https://www.yellowwei.cn/img/2023-12-26（4）.png)
