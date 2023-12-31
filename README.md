@@ -371,7 +371,7 @@ Mastering computer basics is an important process.
 
 ![](https://www.yellowwei.cn/img/2023-12-26（5）.png)
 
-- one of its ports, insert it into the Ethernet port of the NIC card, take the other side and insert it into the switch or the hub.
+- one of its ports, insert it into the Ethernet port of the NIC card, take the other side and insert it into the switch or the hub
 
 ![](https://www.yellowwei.cn/img/2023-12-26（6）.png)
 
